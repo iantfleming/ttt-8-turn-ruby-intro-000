@@ -45,7 +45,10 @@ def turn(board)
   else
     turn(board)
   end
+<<<<<<< HEAD
   display_board(board)
+=======
+>>>>>>> 157e995b063bfe2f1620624734346bec13120e8b
 end
 
 
